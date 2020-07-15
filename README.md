@@ -7,9 +7,11 @@ Here are some ideas to know more about me:
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Mobile development
-- 📲 Check out my app -> [Campus BE!](https://campusbe.com/)
 - 📫 How to reach me: Twitter 📱 -> [@stevalberts](https://twitter.com/stevalberts) Email 📩 -> [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
 - 😄 Pronouns: Boroboro
 - ⚡ Fun fact: Freedom makes me creative.
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=stevalberts&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+> 📲 Check out my app -> [Campus BE!](https://campusbe.com/)
+![enter image description here](https://campusbe.com/images/iphonewp.png)
