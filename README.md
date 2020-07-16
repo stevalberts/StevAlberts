@@ -15,6 +15,5 @@ Here are some ideas to know more about me:
 
 > 📲 Check out my app -> [Campus BE!](https://campusbe.com/)
 
-![Campus BE! App](https://campusbe.com/images/iphonewp.png)
+![Campus BE! App](https://pbs.twimg.com/media/ERb69p4XUAAakqU.jpg)
 
-![Campus BE! App](https://www.macworld.co.uk/cmsdata/features/3782166/how-to-use-apple-health-main2_thumb800.png)
