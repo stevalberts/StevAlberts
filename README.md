@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Here are some ideas to know more about me:
+I’m a self-motivated, flexible and dedicated individual with strong analytical skills and technical experience/skills in software and application development, user support and operations. Able to deliver in a timely fashion with minimum supervision.
 
 - 🔭 I’m currently working on [Venda](https://twitter.com/vendaround)
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -8,8 +8,10 @@ Here are some ideas to know more about me:
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Mobile development
 - 📫 How to reach me: 
-> Twitter 📱 -> [@stevalberts](https://twitter.com/stevalberts) |
-> Email 📩 -> [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
+> Twitter 📱: 
+>[@stevalberts](https://twitter.com/stevalberts)
+> Email 📩: 
+>[ogsteval@gmail.com](mailto:ogsteval@gmail.com)
 - 😄 Pronouns: Boroboro
 - ⚡ Fun fact: Freedom makes me creative.
 
