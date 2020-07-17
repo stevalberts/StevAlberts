@@ -8,8 +8,8 @@ Here are some ideas to know more about me:
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Mobile development
 - 📫 How to reach me: 
-> Twitter 📱 -> [@stevalberts](https://twitter.com/stevalberts) 
-> Email 📩 -> [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
+ > Twitter 📱 -> [@stevalberts](https://twitter.com/stevalberts)
+ > Email 📩 -> [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
 - 😄 Pronouns: Boroboro
 - ⚡ Fun fact: Freedom makes me creative.
 
