@@ -8,7 +8,7 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Mobile development
 - 📫 How to reach me: 
- > Twitter 📱:  
+ > Twitter 📱:
  > [@stevalberts](https://twitter.com/stevalberts)  
  > Email 📩: 
  > [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
