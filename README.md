@@ -19,5 +19,5 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
 
 > 📲 Check out my app -> [Campus BE!](https://campusbe.com/)
 
-![Campus BE! App](https://pbs.twimg.com/media/ERb69p4XUAAakqU.jpg)
-
+<!-- ![Campus BE! App](https://pbs.twimg.com/media/ERb69p4XUAAakqU.jpg)
+ -->
