@@ -14,10 +14,11 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
  > [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
 - 😄 Pronouns: Boroboro
 - ⚡ Fun fact: Freedom makes me creative.
+> 📲 Check out my app -> [Campus BE!](https://campusbe.com/)
+
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=stevalberts&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-> 📲 Check out my app -> [Campus BE!](https://campusbe.com/)
 
 <!-- ![Campus BE! App](https://pbs.twimg.com/media/ERb69p4XUAAakqU.jpg)
  -->
