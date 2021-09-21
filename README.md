@@ -9,7 +9,7 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
 - 💬 Ask me about Mobile or Web development
 - 📫 How to reach me: 
  > Twitter 📱:
- > [@stevalberts](https://twitter.com/ogwalberts)  
+ > [@ogwalberts](https://twitter.com/ogwalberts)  
  > Email 📩: 
  > [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
 - 😄 Pronouns: Boroboro
