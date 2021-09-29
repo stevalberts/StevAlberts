@@ -1,4 +1,4 @@
-### Bonjour 👋
+### Sasa 👋
 
 I’m a self-motivated, flexible and dedicated individual with strong analytical skills and technical experience/skills in software and application development, user support and operations. Able to deliver in a timely fashion with minimum supervision.
 
