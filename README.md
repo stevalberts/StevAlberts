@@ -4,7 +4,7 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
 
 - 🔭 I’m currently working on [Secrets](https://twitter.com/secretsanon_)
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on [Twitter](https://twitter.com/ogwalberts) and other social platforms
+- 👯 I’m looking to connect on [Twitter](https://twitter.com/ogwalberts) and other social platforms
 - 🤔 I’m looking for help with Machine Learning and AI
 - 💬 Ask me about Mobile or Web development
 - 📫 How to reach me: 
