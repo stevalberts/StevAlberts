@@ -12,7 +12,7 @@ I’m a self-motivated, flexible and dedicated individual with strong analytical
  > [@ogwalberts](https://twitter.com/ogwalberts)  
  > Email 📩: 
  > [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
-- 😄 Pronouns: Boroboro
+- 😄 Pronouns: Luo
 - ⚡ Fun fact: Tomorrow starts now.
 > 📲 Check out my apps -> [PlayStore](https://play.google.com/store/apps/dev?id=7806017050104186857)
 
