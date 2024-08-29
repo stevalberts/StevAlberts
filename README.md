@@ -3,7 +3,7 @@
 I’m a self-motivated, flexible and dedicated individual with strong analytical skills and technical experience/skills in software and application development, user support and operations. Able to deliver in a timely fashion with minimum supervision.
 
 - 🔭 I’m currently working on [Distributed Systems]([https://twitter.com/secretsanon_](https://play.google.com/store/apps/details?id=com.app.biblescript))
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data & ML Engineering
 - 👯 I’m looking to connect on [Twitter](https://twitter.com/ogwalberts) and other social platforms
 - 🤔 I’m looking for help with Machine Learning and AI
 - 💬 Ask me about Mobile or Web development
