@@ -4,6 +4,7 @@
 [![Gmail Profile](images/gmail.png)](mailto:info.stevapps@gmail.com)
 
 Certificates: https://www.credly.com/users/stevalberts
+Articles: https://medium.com/@stevapps256
 
 ### Pleased to see you today!
 
