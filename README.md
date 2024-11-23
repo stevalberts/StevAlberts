@@ -15,7 +15,7 @@ Ever wondered how data can be harnessed to revolutionize industries? As a versat
 
 **About Me:**
 - 🔭 I’m currently working on Transaction Systems.
-- 🌱 I’m learning Data & ML Engineering.
+- 🌱 I’m learning Data Science.
 - 👯 Let's connect on LinkedIn and other social platforms.
 - 🤔 I’m looking for help with Python automations.
 - 💬 Ask me about Mobile Development or UI/UX Design.
