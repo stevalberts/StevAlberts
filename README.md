@@ -1,24 +1,22 @@
-### Itye 👋
+### Hi there, I'm <a href="https://stevalberts.github.io/" target="_blank" title="StevalbertS">Steven A Ogwal</a> 👋
 
-I’m a self-motivated, flexible and dedicated individual with strong analytical skills and technical experience/skills in software and application development, user support and operations. Able to deliver in a timely fashion with minimum supervision.
+[![LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/triet-trinh) 
+[![Gmail Profile](images/gmail.png)](mailto:info.stevapps@gmail.com)
 
-- 🔭 I’m currently working on [Distributed Systems]([https://twitter.com/secretsanon_](https://play.google.com/store/apps/details?id=com.app.biblescript))
-- 🌱 I’m currently learning Data & ML Engineering.
-- 👯 I’m looking to connect on [Twitter](https://twitter.com/ogwalberts) and other social platforms.
-- 🤔 I’m looking for help with ETL pipelines.
-- 💬 Ask me about Mobile or Web development
-- 📫 How to reach me: 
- > Twitter 📱:
- > [@ogwalberts](https://twitter.com/ogwalberts)  
- > Email 📩: 
- > [ogsteval@gmail.com](mailto:ogsteval@gmail.com)
-- 😄 Pronouns: Luo
-- ⚡ Fun fact: Tomorrow starts now.
-> 📲 Check out my apps -> [PlayStore](https://play.google.com/store/apps/dev?id=7806017050104186857)
+Certificates: https://www.credly.com/users/stevalberts
 
+### Pleased to see you today!
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=stevalberts&&show_icons=true&title_color=ffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+Ever wondered how data can be harnessed to revolutionize industries? As a versatile software developer and data engineer, I turn that curiosity into reality by creating innovative technology solutions that drive impactful change. My expertise lies in developing data management systems, business intelligence tools, and transaction systems, all aimed at boosting efficiency and providing data-driven insights. I specialize in data engineering tasks such as acquiring, integrating, and validating datasets, and applying statistical techniques using Python and SQL to solve real-world problems. Proficient in tools like Tableau, Looker, and PowerBI, I also bring experience in technical documentation, cloud technologies (Firebase, GCP, AWS), UI/UX design, and mobile development (iOS, Android using Objective-C, Swift, Java, Kotlin, Flutter, Angular). Explore my GitHub repositories to see my work and let's collaborate on your next groundbreaking project.
 
+<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="400"/>
 
-<!-- ![Campus BE! App](https://pbs.twimg.com/media/ERb69p4XUAAakqU.jpg)
- -->
+**About Me:**
+- 🔭 I’m currently working on Transaction Systems.
+- 🌱 I’m learning Data & ML Engineering.
+- 👯 Let's connect on LinkedIn and other social platforms.
+- 🤔 I’m looking for help with Python automations.
+- 💬 Ask me about Mobile Development or UI/UX Design.
+- 😄 Pronouns: ITYE (All right).
+- 🏢 I currently work at Openline.
+- 📫 How to reach me: info.stevapps@gmail.com
