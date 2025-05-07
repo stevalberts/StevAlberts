@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://stevalberts.github.io/" target="_blank" title="StevalbertS">Stev</a> 👋
+### Hi there, I'm <a href="https://stevalberts.github.io/" target="_blank" title="StevalbertS">Stev.</a> 👋
 
 [![LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/triet-trinh) 
 [![Gmail Profile](images/gmail.png)](mailto:info.stevapps@gmail.com)
